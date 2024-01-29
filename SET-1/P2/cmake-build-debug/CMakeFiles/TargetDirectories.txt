@@ -1,0 +1,3 @@
+C:/Учеба/2 Курс/Алгосы/SET-1/P2/cmake-build-debug/CMakeFiles/P2.dir
+C:/Учеба/2 Курс/Алгосы/SET-1/P2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Учеба/2 Курс/Алгосы/SET-1/P2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
